@@ -4,7 +4,7 @@ Notes on LEMP stacked on ubuntuless. How to's, etc.
 ## Nginx
 sudo apt install nginx
 
-#test with curl, output is html source
+#test with curl, output is html page
 
 curl http://localhost or curl http://vaagrant-vm-ip
 
