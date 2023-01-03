@@ -52,9 +52,9 @@ sudo systemctl reload nginx
 
 ## Create an index.html in newdomain
 nano /var/www/your_domain/index.html
-<html>  <head>    <title>newdomain website</title>  </head>  
+'<html>  <head>    <title>newdomain website</title>  </head>  
   <body> <h1>Hello World!</h1> <p>This is the landing page of <strong>newdomain</strong>.</p>
-  </body> </html>
+  </body> </html>'
   
 #test with curl or browser, output is html page
 
