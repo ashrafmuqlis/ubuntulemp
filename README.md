@@ -17,6 +17,7 @@ sudo mysql
 #set mysql root password to Mysqlroot123!
 
 ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'Mysqlroot123!';
+
 exit;
 
 ## PHP Library
