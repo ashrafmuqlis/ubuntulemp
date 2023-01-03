@@ -30,6 +30,7 @@ php -v
 
 ## Create a test project/site
 sudo mkdir /var/www/newdomain
+
 sudo chown -R $USER:$USER /var/www/newdomain
 
 ## Configure newdomain
